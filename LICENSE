@@ -1,21 +1,115 @@
-MIT License
+NEVA LICENSE
 
-Copyright (c) 2026 BLACK
+Copyright © 2026 Ibrahim Mohammed. All Rights Reserved.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+NEVA and all original source code, algorithms, documentation, designs, and associated materials contained within this project are the intellectual property of Ibrahim Mohammed, unless explicitly stated otherwise.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+1. Permission
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+Permission is granted to any individual to:
+
+- View and study the source code.
+- Use the software for personal, educational, academic, research, and non-commercial purposes.
+- Copy and redistribute the source code.
+- Modify the source code.
+- Create derivative works.
+- Experiment with, analyze, test, and extend the software.
+- Include modified versions in other non-commercial projects.
+
+No fee is required for the permissions granted under this license.
+
+2. Attribution Requirement
+
+The original copyright notice and the name Ibrahim Mohammed must remain clearly visible in redistributed copies and substantial portions of the software.
+
+The following attribution must not be removed, obscured, or intentionally altered:
+
+Original Creator: Ibrahim Mohammed
+
+Redistributors must preserve the original LICENSE file and copyright notices.
+
+3. Prohibition of False Authorship
+
+No individual, organization, company, or other entity may claim or imply that they are the original creator, inventor, author, or developer of NEVA.
+
+No modified version may be presented in a manner that falsely represents its creator as the original creator of NEVA.
+
+Modifications may be made freely under this license, but modified versions must clearly indicate that they have been modified.
+
+4. Commercial Restriction
+
+The software may not be:
+
+- Incorporated into a commercial product.
+- Embedded into a commercial operating system or commercial platform.
+- Bundled with a commercial product.
+- Distributed as a component of a commercial software system.
+- Sold, licensed, or sublicensed for commercial purposes.
+- Used as an integrated component of a commercial service.
+
+Commercial use, commercial integration, commercial distribution, and commercial incorporation require separate written permission from Ibrahim Mohammed.
+
+5. Derivative Works
+
+Derivative and modified versions are permitted for purposes allowed by this license.
+
+However, derivative works must:
+
+1. Preserve the original copyright notice.
+2. Preserve this license.
+3. Clearly identify modifications.
+4. Not claim original authorship of NEVA.
+5. Not use the name NEVA in a manner that falsely suggests the modified work is the official original version.
+
+6. Name and Identity
+
+The name NEVA and the identity of the original project must not be used to falsely represent a modified or derivative project as the official version created by Ibrahim Mohammed.
+
+Forks and modified versions are permitted, provided that their relationship to the original project is clearly stated.
+
+7. No Transfer of Ownership
+
+This license grants permissions to use, copy, study, modify, and redistribute the software under the conditions stated herein.
+
+It does not transfer ownership, copyright, authorship, or intellectual-property rights from Ibrahim Mohammed to any recipient.
+
+8. No Warranty
+
+NEVA is provided "AS IS", without warranty of any kind, express or implied.
+
+Ibrahim Mohammed shall not be liable for any claim, damages, losses, or other liability arising from the use, modification, distribution, or inability to use the software, to the maximum extent permitted by applicable law.
+
+9. Termination
+
+Any rights granted under this license terminate automatically if the recipient violates any condition of this license.
+
+Upon termination, the recipient must cease the activities that are no longer authorized under this license, subject to any rights that cannot lawfully be terminated.
+
+10. Separate Commercial Permission
+
+Ibrahim Mohammed may grant separate written permission for commercial use, commercial integration, licensing, distribution, or other activities prohibited by this license.
+
+Such permission may contain additional terms.
+
+11. Ownership
+
+All original intellectual-property rights in NEVA remain with:
+
+Ibrahim Mohammed
+
+No provision of this license shall be interpreted as transferring ownership of NEVA to any individual, organization, company, contributor, distributor, or user.
+
+12. Acceptance
+
+By copying, modifying, redistributing, or using NEVA under this license, the recipient agrees to comply with all applicable terms and conditions stated herein.
+
+---
+
+NEVA
+
+Original Creator: Ibrahim Mohammed
+Copyright: © 2026 Ibrahim Mohammed
+License: NEVA License
+Commercial Use: Not permitted without explicit written permission
+Commercial Integration: Not permitted without explicit written permission
+False Authorship: Strictly prohibited
